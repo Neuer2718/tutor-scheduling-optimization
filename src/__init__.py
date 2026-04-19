@@ -1,1 +1,3 @@
-
+"""
+Tutor Scheduling Optimization package.
+"""
