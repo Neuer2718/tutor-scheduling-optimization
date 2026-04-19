@@ -1,0 +1,7 @@
+session_id,day,time_slot,required_tutors
+Mon_9,Mon,9AM,1
+Mon_11,Mon,11AM,1
+Tue_9,Tue,9AM,1
+Tue_1,Tue,1PM,1
+Wed_11,Wed,11AM,1
+Thu_1,Thu,1PM,1
